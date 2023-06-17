@@ -6,3 +6,10 @@
 2. 进入虚拟环境：`source venv/bin/activate`
 3. 安装依赖：`pip install -r requirements.txt`
 4. 安装新包后，执行这个命令将包名和包版本信息写入 requirements.txt：`pip freeze > requirements.txt`
+
+### 相关资料
+
+相关资料 | 说明
+--- | ---
+官方代码下载从【配套资源 】 | https://www.epubit.com/bookDetails?id=UB7245bf2ca7715
+其它人整理的 | https://github.com/Vuean/Zero-Basic-Machine-Learning

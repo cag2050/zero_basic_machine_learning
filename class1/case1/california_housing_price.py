@@ -3,7 +3,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
-# df_housing = pd.read_csv("http://raw.githubusercontent.com/huangjia2019/house/master/house.csv")
+# 解决下载资源报错：https://www.jianshu.com/p/7cd22c91d2fe
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
+# df_housing = pd.read_csv("https://raw.githubusercontent.com/huangjia2019/house/master/house.csv")
 df_housing = pd.read_csv("./house.csv")  # 本地调试使用本地文件
 df_housing.head
 X = df_housing.drop("median_house_value", axis=1)
