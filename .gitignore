@@ -2,5 +2,8 @@
 venv/
 
 class6卷积神经网络-识别狗狗的图像/case1/dataset/images/Images/**/**
-opencv_python-4.5.4.60-cp39-cp39-macosx_10_15_x86_64.whl
+
 /class6卷积神经网络-识别狗狗的图像/case1/dataset/
+
+class7循环神经网络-鉴定留言及探索系外行星/case2/dataset/*
+/class10监督学习之外-其他类型的机器学习/case2/dataset/
