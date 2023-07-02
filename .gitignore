@@ -1,2 +1,6 @@
 .idea/
 venv/
+
+class6卷积神经网络-识别狗狗的图像/case1/dataset/images/Images/**/**
+opencv_python-4.5.4.60-cp39-cp39-macosx_10_15_x86_64.whl
+/class6卷积神经网络-识别狗狗的图像/case1/dataset/

@@ -30,6 +30,7 @@ gast==0.4.0
 google-auth==2.20.0
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
+graphviz==0.20.1
 grpcio==1.54.2
 h5py==3.8.0
 idna==3.4
@@ -73,6 +74,7 @@ notebook==6.5.4
 notebook_shim==0.2.3
 numpy==1.23.5
 oauthlib==3.2.2
+opencv-python==4.5.4.60
 opt-einsum==3.3.0
 overrides==7.3.1
 packaging==23.1
@@ -92,6 +94,8 @@ pure-eval==0.2.2
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
+pydot==1.4.2
+pydotplus==2.0.2
 Pygments==2.15.1
 pyparsing==3.0.9
 pyrsistent==0.19.3
